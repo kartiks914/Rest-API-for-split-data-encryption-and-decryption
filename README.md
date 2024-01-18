@@ -1,4 +1,4 @@
-# Rest-API-for-split-data-encryption-and-decryption
+# Rest API for split data encryption and decryption
 API
 The project aims to develop a Spring Boot API that provides secure data encryption and decryption services. The API allows clients to encrypt sensitive information using the AES encryption algorithm and also provides functionality to decrypt the encrypted data.
 
